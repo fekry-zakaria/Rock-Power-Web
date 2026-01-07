@@ -63,7 +63,30 @@
     "ser4":"SEO"
 
   },
+  "OurServices":{
+    "Mobile":"Mobile & App Development",
+    "SEO":"Search engine optimization",
+    "Social":"Social media management",
+    "Digital":"Digital and strategic consulting",
+    "Graphic":"Graphic Design",
+    "Digitalnum":"Digital Marketing",
+    "production":"Photography and production ",
+    "Web":"Web Solutions and E-Commerce"
+    
+  },
 
+  "OurServicesDes":{
+    "Mobiledes":"We provide mobile app development services to create innovative and seamless digital experiences. From user interface (UI) and user experience (UX) design to developing apps for iOS and Android, we help your brand reach a wider audience, boost engagement, and increase sales through customized digital solutions.",
+    "SEOdes":"We provide comprehensive Search Engine Optimization (SEO) services to boost your website's visibility on Google, attract targeted organic traffic, improve user experience, enhance site speed, and build strong backlinks to increase your ranking, drive sales, and achieve sustainable digital growth for your brand.",
+    "Socialdes":"We provide comprehensive social media management to boost audience engagement and build a strong brand presence. From content planning, regular posting, and audience interaction to performance analysis and results measurement, we help enhance brand awareness and increase sales.",
+    "Digitaldes":"We provide digital and strategic consulting to develop innovative marketing plans, optimize operations, and measure performance, increasing ROI and achieving sustainable growth for your brand.",
+    "Graphicdes":"We provide innovative and comprehensive solutions for graphic design. From creating visual identities to developing promotional materials, we focus on delivering exceptional creativity, professional design tools, and impactful visuals to enhance brand presence, engagement, and achieve memorable design impact.",
+    "DigitaldMarketingdes":"At Rock Power, we provide comprehensive digital marketing solutions to boost your brand's visibility and engage your target audience. Through innovative strategies including Search Engine Optimization (SEO), email marketing, paid advertising, and social media, we help you increase sales and achieve the highest return on investment (ROI) across digital marketing channels. ",
+    "productiondes":"We provide professional photography and video production services, from creative shooting and video editing to visual effects and high-quality final production. We help your brand showcase its products and services attractively, enhance audience engagement, and boost digital impact. ",
+    "Webdes":"We provide innovative and comprehensive solutions for designing and developing websites and online stores, focusing on an excellent user experience, powerful content management tools, and secure payment integrations to enhance engagement, sales, and achieve sustainable digital growth."
+    
+  },
+  
   "notFound": {
     "title": "404 - Page Not Found",
     "description": "Sorry, the page you are looking for does not exist"
