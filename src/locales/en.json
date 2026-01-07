@@ -1,0 +1,72 @@
+{
+  "common": {
+    "welcome": "Welcome",
+    "home": "Home",
+    "notFound": "Not Found",
+    "language": "Language"
+  },
+ "navbar" :{
+  "home": "Home",
+  "about": "About Us",
+  "services": "Our Services",
+  "partners": "Our Partners",
+  "contact": "Contact Us"
+
+
+  },
+  "homeSectionOne": {
+    "title": "BOLD IDEAS",
+    "supTitle":"MASSIVE IMPACT",
+    "description": "Our mission is to empower brands to build a strong presence and stand out across markets through integrated marketing solutions that combine well-crafted strategy, creative design, and cutting-edge technology. We believe that our clients' success is an extension of our own, which is why we treat every client as a strategic partner and transform their visions into tangible achievements through a dedicated team committed to the highest standards of quality and sustainable results."
+  },
+  "homeSectionThree":{
+    
+ "title": "WHO WE ARE ?",
+   
+    "description": "We transform ideas into exceptional experiences, executed with precision and professionalism, from concept to final delivery. We are a specialized team with deep, hands-on experience, working under the leadership of experts in marketing, communication, and technology to achieve measurable results and long-term client satisfaction.",
+    "titleNumber1": "+06",
+    "titleNumber2": "+120",
+    "titleNumber3": "+05",
+    "TextNumber1": "Years of Experience",
+    "TextNumber2": "Clients Served Success",
+    "TextNumber3": "Countries we Have Worked In"
+    
+  },
+  "homeRockPowr":{
+    "title" :"Why Rock Power",
+    "pr1":"Specialized and High-Quality Communication Solutions",
+    "pr2":"A Creative and Dedicated Team",
+    "pr3":"After-Sales Services",
+    "pr4":"Free Training and Fast Technical Support"
+
+  },
+  "homefinalSecition":{
+    "title":"SERVICES",
+    "pointOne":"MARKETING (SEM & SEO)",
+    "pointTWO":"APP DEVELOPMENT",
+    "pointThree":"E-COMMERCE SOLUTIONS",
+    "pointFour":"DIGITAL MARKETING STRATEGY",
+    "pointFive":"WEB DEVELOPMENT",
+    "pointend":"UX/UI DESIGN"
+   
+  },
+  "Footer":{
+    "linkTitle":"LINKS",
+    "link1":"HOME",
+    "link2":"CONTACT US",
+    "link3":"ABOUT US",
+    "link4":"PRIVACY POLICY",
+    "servicesTitle":"Services",
+    "ser1":"Digital Marketing",
+    "ser2":"Web Development",
+    "ser3":"App Development",
+    "ser4":"SEO"
+
+  },
+
+  "notFound": {
+    "title": "404 - Page Not Found",
+    "description": "Sorry, the page you are looking for does not exist"
+  }
+}
+
