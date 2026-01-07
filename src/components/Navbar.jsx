@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import logo from "../assets/images/logo.png";
 import { useTranslation } from "react-i18next";
 import LanguageSwitcher from "./LanguageSwitcher";
-
+import { NavLink } from "react-router-dom";
 const Navbar = () => {
   const [open, setOpen] = useState(false);
   const [showNav, setShowNav] = useState(true);
@@ -59,22 +59,34 @@ const Navbar = () => {
 
           {/* Desktop Nav */}
           <div className="hidden md:block">
-            <ul
-              className={`flex items-center gap-12 text-lg mt-2 ${
-                isArabic ? "flex-row-reverse" : "flex-row"
-              }`}
-            >
-              {navLinks.map((link) => (
-                <li key={link.path}>
-                  <Link
-                    to={link.path}
-                    className="text-white font-bold transition hover:text-[#bbfe32]"
-                  >
-                    {link.name}
-                  </Link>
-                </li>
-              ))}
-            </ul>
+          <ul
+  className={`flex items-center gap-12 text-lg mt-2 ${
+    isArabic ? "flex-row-reverse" : "flex-row"
+  }`}
+>
+  {navLinks.map((link) => (
+    <li key={link.path} className="relative">
+      <NavLink
+        to={link.path}
+        className={({ isActive }) =>
+          `text-white font-bold transition hover:text-[#bbfe32]
+           ${isActive ? "text-[#bbfe32]" : ""}`
+        }
+      >
+        {({ isActive }) => (
+          <>
+            {link.name}
+            {/* الخط */}
+            <span
+              className={`absolute left-0 -bottom-2 h-[3px] bg-[#bbfe32] transition-all duration-300
+              ${isActive ? "w-full" : "w-0"}`}
+            />
+          </>
+        )}
+      </NavLink>
+    </li>
+  ))}
+</ul>
           </div>
 
           {/* Right Side */}
