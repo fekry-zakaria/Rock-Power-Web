@@ -19,6 +19,7 @@ function App() {
 
     <Router>
       <div className="relative min-h-screen overflow-x-hidden bg-[#272727] ">
+        
         <Navbar />
 
         <Suspense

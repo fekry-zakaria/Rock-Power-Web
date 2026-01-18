@@ -50,6 +50,93 @@
     "pointend":"UX/UI DESIGN"
    
   },
+  "about": {
+    "heroTag": "Who We Are",
+    "heroTitle": "Rock Power is a leading company in digital transformation and digital marketing",
+    "heroDescription": "We deliver innovative, end-to-end solutions to elevate brand visibility and deepen audience engagement.",
+    "approachTitle": "Our Approach",
+    "approachDescription": "We operate as partners with our clients, understanding their needs and delivering tailored digital strategies that blend creativity, technology, and data to achieve measurable results.",
+    "approach": {
+      "creativity": {
+        "title": "Creativity",
+        "description": "We believe in the power of creativity to turn ideas into tangible outcomes."
+      },
+      "technology": {
+        "title": "Technology",
+        "description": "We use the latest technologies to deliver advanced, modern solutions."
+      },
+      "data": {
+        "title": "Data",
+        "description": "We rely on data to make smart, strategic decisions."
+      }
+    },
+    "visionTitle": "Our Vision",
+    "visionBody": "We build a strong digital presence that places our clients at the heart of competition, enabling them to stand out and lead the digital market. Our vision centers on empowering our partners to reach the summit, achieve sustainable glory, and leave an unforgettable mark through continuous innovation, smart strategy, and modern technology.",
+    "missionTitle": "Our Mission",
+    "missionBody": "Rock Power enables businesses to achieve their maximum digital potential through innovative solutions, professional design, and bold marketing that leaves a powerful impact. We combine precise strategy and advanced technologies to elevate our clients' digital presence and help them excel in a fast-changing world. Through our expertise and continuous innovation, we turn ideas into reality and ensure sustained digital success.",
+    "qualityStatement": "At Rock Power, we are committed to the highest standards of quality and professionalism to ensure sustainable success for our clients.",
+    "stats": {
+      "years": "+06",
+      "clients": "+120",
+      "countries": "+05",
+      "yearsLabel": "Years of Experience",
+      "clientsLabel": "Clients Served Successfully",
+      "countriesLabel": "Countries We Have Worked In"
+    }
+  },
+  "contact": {
+    "heroTag": "Contact Us",
+    "heroTitle": "We are here to answer your questions and deliver the solutions you need",
+    "heroDescription": "Reach out to us today!",
+    "infoTitle": "Contact Information",
+    "phoneTitle": "Phone",
+    "phoneValue": "+123456789",
+    "emailTitle": "Email",
+    "emailValue": "info@rockpower.online",
+    "hoursTitle": "Working Hours",
+    "hoursValue": "Sunday - Thursday: 9:00 AM - 6:00 PM",
+    "hoursNote": "Friday - Saturday: Closed",
+    "formTitle": "Send Us a Message",
+    "form": {
+      "nameLabel": "Name",
+      "namePlaceholder": "Enter your name",
+      "emailLabel": "Email",
+      "emailPlaceholder": "Enter your email",
+      "messageLabel": "Message",
+      "messagePlaceholder": "Enter your message",
+      "submit": "Send"
+    }
+  },
+  "partners": {
+    "heroTag": "Our Partners",
+    "heroTitle": "We craft digital partnerships that spark growth and lasting impact",
+    "heroDescription": "We collaborate with ambitious brands to build strong presence and turn goals into measurable results.",
+    "pillarsTitle": "Partnership Pillars",
+    "pillars": {
+      "strategy": {
+        "title": "Clear Strategy",
+        "description": "We define priorities and build precise digital roadmaps that drive long-term growth."
+      },
+      "collaboration": {
+        "title": "Transparent Collaboration",
+        "description": "We stay close to our partners to align vision and move quickly with confidence."
+      },
+      "performance": {
+        "title": "Measurable Performance",
+        "description": "We track outcomes and optimize continuously for the strongest return."
+      }
+    },
+    "showcaseTitle": "Partnership Focus",
+    "showcase": [
+      "Digital Marketing",
+      "Brand Identity",
+      "Web & App Development",
+      "User Experience",
+      "Digital Transformation"
+    ],
+    "ctaTitle": "Ready to build the next success story",
+    "ctaDescription": "Let’s start your digital journey with a clear plan, professional execution, and continuous support."
+  },
   "Footer":{
     "linkTitle":"LINKS",
     "link1":"HOME",

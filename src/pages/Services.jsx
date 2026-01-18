@@ -1,3 +1,4 @@
+import { div } from "framer-motion/client";
 import i18next from "i18next";
 import { useState, useEffect } from "react";
 
@@ -115,12 +116,15 @@ const Services = () => {
     }
   }, [t]);
   return (
-    <div className="drawer lg:drawer-open mt-15">
+  
+    <div className="drawer lg:drawer-open mt-15 ">
+      
+   
       <input id="my-drawer-4" type="checkbox" className="drawer-toggle"   checked={drawerOpen}
   onChange={(e) => setDrawerOpen(e.target.checked)} />
 
       {/* ========== Content ========== */}
-      <div className="drawer-content bg-[#272727] text-white min-h-screen">
+      <div className="drawer-content  text-white min-h-screen">
         <nav className="navbar w-full">
         <label htmlFor="my-drawer-4" className="btn btn-square btn-ghost">
   {drawerOpen ? (
@@ -183,6 +187,7 @@ const Services = () => {
         </div>
       </div>
     </div>
+
   );
 };
 
